@@ -437,7 +437,7 @@ Vue.component('mission', {
 			 },
 			 {
 				 id:76,
-				 name: 'Galactic Legend Kenobi with Republic (variants available)',
+				 name: 'Тут мог бы быть видос от Макса :)',
 				 toons: ['gl_kenobi','commander_ahsoka_tano','padmé_amidala','general_kenobi','general_skywalker',],
                  video: 'https://youtu.be/s34PRPeJKsQ?t=525',
                  videosource: "bd"
@@ -545,7 +545,6 @@ Vue.component('mission', {
 "Veteran Smuggler Chewbacca",	"1","Wedge Antilles",	"1","Young Han Solo",	"1",        ]
 		],
 		guides:[
-		'Тут будет видос от Макса :)',
 		'See also: 50 Shards of Kam Discord Server',
 		'Its Just Ian Modding and Strategy: www.youtube.com/watch?v=9eLKxWumn_Y',
 		'McMole2 Defeat the Reek: www.youtube.com/watch?v=ktfNTjiUiGY',
